@@ -1,0 +1,34 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.fig
+*.slx
+*.mdl
+*.mex*
+*.p
+*.prj
+*.mlapp
+*.mltbx
+*.mlappinstall
+*.mltbxinstall
+
+# MATLAB generated files
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexglx
+*.mexmaci64
+*.mexmaca64
+
+# Simulink
+*.slxc
+*.autosave
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
